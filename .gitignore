@@ -1,0 +1,12 @@
+# Build output
+bin/
+obj/
+*.user
+.vs/
+
+# Never commit the game's files or personal data
+GameRefs/
+SaveBackups/
+*.exe
+*.dll
+*.pdb
